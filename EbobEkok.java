@@ -41,8 +41,9 @@ public class EbobEkok {
                    s3++;
                }
            }
-           System.out.println(ebob);
+           System.out.println("Ebob:"+ebob);
            ekok=(s1*s2)/ebob;
+           System.out.println("Ekok:"+ekok);
        }
 
     }
